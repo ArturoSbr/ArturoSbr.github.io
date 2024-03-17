@@ -1,6 +1,7 @@
-# Index
-Testing new page `index.mx`.
+# Landing page
 
-Trying to redirect back into [some other page](https://www.youtube.com) and rendering a Latex equation $x = 22$.
+This is the site's main landing page (`index.md`).
+
+Latex is not rendered.
 
 Here's a link to [a page](README.md) inside the repo.
