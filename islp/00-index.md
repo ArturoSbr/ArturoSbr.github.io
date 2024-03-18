@@ -1,7 +1,3 @@
-layout: page
-title: "The Hitchhiker's Guide to Statistical Learning"
-permalink: /stat-learning
-
 # The Hitchhiker's Guide to Statistical Learning
 
 This page is intended to serve as a guide to [
