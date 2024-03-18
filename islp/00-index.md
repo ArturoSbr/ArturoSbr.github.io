@@ -8,6 +8,7 @@ This page is intended to serve as a guide to [
 principles of Machine Learning up to date. Hopefully this site will help you
 stay sharp too.
 
+
 ## Chapter Summaries
 
 2. Statistical Learning
