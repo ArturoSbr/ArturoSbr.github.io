@@ -25,7 +25,7 @@ contributions to [NetworkX](
 using Machine Learning and Graph Theory to detect money laundering schemes.
 
 
-# Side Quests
+## Side Quests
 
 I am currently writing [The Hitchhiker's Guide to Statistical Learning](
     https://arturosbr.github.io/islp/00-index.html
