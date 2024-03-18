@@ -1,3 +1,10 @@
+---
+layout: page
+title: "PAGE-TITLE"
+permalink: /URL-PATH
+---
+
+
 # The Hitchhiker's Guide to Statistical Learning
 
 This page is intended to serve as a guide to [
